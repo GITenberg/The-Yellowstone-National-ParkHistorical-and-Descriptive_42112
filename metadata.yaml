@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41527'
     url: http://www.gutenberg.org/2009/agents/41527
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42112#The-Yellowstone-National-ParkHistorical-and-Descriptive
 gutenberg_issued: '2013-02-17'
 gutenberg_type: Text
 identifiers:
